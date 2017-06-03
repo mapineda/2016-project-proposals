@@ -14,5 +14,5 @@ To see all the projects that were proposed at the 2016 ATX Hack for Change, [vis
 Here is a listing of all the projects that were presented:
 
 | Project   | Champion  | Description     |  Code & Other Links  
-|---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+|---|---|---|--- |
 |[Keep Austin Fed](https://permit-wiz.herokuapp.com/) | Lisa Barden | Dashboard to display real time status on food rescue | <code> |
