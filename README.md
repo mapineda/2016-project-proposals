@@ -32,7 +32,7 @@ Here is a listing of all the projects that were presented:
 |UNKNOWN | Nancy A. Lynch| Create concise datasets that support a decision tree model on important topics such as transgender restrooms to empower informed decisions by the community.| <code>
 |1AustinSol| Scott Nguyen | Create a community-wide approach to bring the benefits of solar to everyone while stimulating investment in the local Austin economy. | <code>
 |Open Currents| Max Tattenbach & Danny Pernik | Provide software for non-profits to record volunteer hours and issue rewards to their volunteers that are redeemable at local vendors. | [GitHub](http://github.com/opencurrents/opencurrents)
-|Civic Hack-Pack| David French | Develop and design ops open-source package for civic organizations who need help get up to speed with technology faster. | <code>
+|Civic Hack-Pack| David French | Develop and design ops open-source package for civic organizations who need help get up to speed with technology faster. | [Code](http://tiny.cc/hack-pack)
 |Hack The Traffic| John Clary & Itamar Gal | Open-source data collection network for transportation to improve communication between public agencies, increase public access to transportation data and inform planning decisions and discussions. | [Github](https://github.com/cityofaustin/traffic-sensor)
 |Mobile App| Andrew Nelson | Boilerplate code and design for creating mobile reporting apps | [GitHub](https://github.com/open-austin/restroom-map/)
 |Texas A&M Transportation Institute| Stephen Polunsky | Create new public interface for transportation funding model, which enables public and policymakers to see the effects of different approaches. | NOT ON SLACK
