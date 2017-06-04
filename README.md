@@ -20,16 +20,13 @@ Here is a listing of all the projects that were presented:
 |MedBlock| Jose Luis Martinez & Sonya | Make medical data more secure using blockchain technology | <code>
 |HighWire | Carlin Castle && Andre Korenak | Utilize Google VR to develop a therapy solution for those with PTSD and anxiety. | GitHub()
 |Garden to Garden|Andrew Estes| Create a Garden Sharing app focused on letting people swap homegrown veggies between neighbors |[GitHub](https://github.com/Shaverda/garden-to-garden)
-|Glowing Up| Meg McLaughlin & Celine Thibault | Create a kit for parents to talk to kids about sexual health in a fun, playful way. | [GitHub](https://github.com/smaashthemac/SexTalk)
+|Glowing Up| Meg McLaughlin & Celine Thibault | Create a kit for parents to talk to kids about sexual health in a fun, playful way. | [GitHub](https://github.com/smaashthemac/SexTalk) * [Video](https://vimeo.com/220230120)
 | First Step In | Laura Erickson | Build a platform that connects new refugees to the Austin community to resources and services that will assist them in building a new life in America. | <code>
-|Health Start Foundation, Inc| Robin Herkowitz | Populate Database using existing public nutrition information to help kids make a strong connection between what they eat, how the food feeds their bodies, and their health.|[GitHub]()|
-|Kid Vitality | Marilyn Stone | Teach kids the value and nutrition of healthy foods in engaging activities and adventures using super food heroes | <code>
+|Health Start Foundation, Inc| Robin Herkowitz | Populate Database using existing public nutrition information to help kids make a strong connection between what they eat, how the food feeds their bodies, and their health.|[GitHub]()
 |GIS Map of Tejano Trail | Charles Thomas | Create a GIS map of Tejano Trail for desktop and mobile, that will use a device's GPS to take the user directly to the spot on the map a user is closest to. | [Website](https://tejanowalkingtrail.github.io/) * [App](http://arcg.is/2mqx9Ez)
 |Kiwi Compute | Julia Lamorelle | Create a resource to give every child an opportunity to code by teaching middles schoolers to write their first lines of python |  [GitHub](https://github.com/murtyjones/kiwi_compute)
 |Austin Can Academy |Ashley Treat | Develop line of communication between school and parent/student about updates, events, reminders, etc. | <code>
-|UNKNOWN |Max Green | Application that listens to a reader, assesses their abilities, and recommends personalized instructions for improvement, by creating stand-alone code structure that can scale.| <code>
 |OWLma Mater| Eric Tang |Create a college-readiness platform that prepares students for the social and lifestyle adjustments needed to transition successfully from high school to college. | [Google Drive](https://drive.google.com/drive/folders/0B-jz3txxcnbbLUZTLU9HMUhIbjg?usp=sharing)
-| Beyond The Grade |Mark Turk | Integrate beat programming and recording software into a “school of rock” style Rock Band music class; provide classes, free of charge, to low income students. | [GitHub]()
 |Kimberlys List | Naji H. Kelley |Create a heat map web application that easily shows the locations of minorities in STEM careers based on location to inspire those who want to pursue careers in STEM | [Website](http://www.kimberlyslist.com/)
 | Bathroom Access ATX | Asher Diaz| Create a web application and campaign to crowdsource data on gender-neutral and transgender-friendly public restrooms in the city of Austin. | [GitHub](https://github.com/asherdiaz/bathroomaccessatx)
 |UNKNOWN | Nancy A. Lynch| Create concise datasets that support a decision tree model on important topics such as transgender restrooms to empower informed decisions by the community.| <code>
@@ -46,7 +43,6 @@ Here is a listing of all the projects that were presented:
 |Youtube Strategy Content |Tianca Crocker | Boost Austin Free-Net's Web-based Tutorial Content for New Users of Technology by creating a YouTube programming strategy  or a series of micro-tutorial videos on common digital literacy topics. | [Website](http://austinfree.net)
 |First Time User Resource |Cassondra Taylor| Create virtual resource directory for those with low digital literacy to come into a public access lab and ﬁnd the resources they need, even if in-person aid is not available | [Website](http://austinfree.net)
 |Tex Mesh |Thomas Heatherly| Use blockchain technology to create method of local communication during emergencies, even in the absence of terrestrial networks, to help residents located in high-risk areas. | <code>
-|UNKNOWN| Kesten Broughton | Digitize the Austin recycling sorting game to help users learn if objects can be recycle | <code>
 |UNKNOWN| Subasish Das | Reduce accidents and fatalities involving cars and bicycles by reﬁning posted speeds on roadways with shared bike paths. | <code>
 |SiBici| Celine Steer & Orlando Cabanas | Create a holistic solution for how cycling can be safer in Austin, in a way that complements the 2014 Austin Bicycle Plan | <code>
 |Budget Party | Victoria O'Dell | Create an interactive app and site to help people understand and augment a city budget for Austin, understand how budgeting works, and allow them a way to directly make an impact on spending. | <code>
@@ -60,6 +56,6 @@ Here is a listing of all the projects that were presented:
 |Austin Pet's Alive| Cheri Linwood  | Develop a Volunteer Recognition App for staf and volunteers to use to recognize the outstanding eforts of our volunteers | [GitHub](http://github.com/jefflinwood/volunteer_recognition_ios)
 |Influence.TX| Amy McCullough Molsey | Inform the Texas electorate by putting politicians' campaign ﬁnance records next to their voting records in one succinct, mobile platform. | [GitHub]()
 |Better Beehive Project| Veronica Martinez | We need your help optimizing our Buzz and Sting Review System and enhancing the users' experience. Better Beehive Project is Yelp with a heart, serving the special needs community by highlighting disability-friendly businesses and organizations. | [GitHub](github.com/bearandgiraffe/better_beehive_project)
-|UNKNOWN| Brandon Michael Gracia & Joey Gidseg | Raise public awareness of the Oﬁce of the Police Monitor and increase the accessibility and convenience of filing a report via mobile app. | <code>
+|Police Accountability| Brandon Michael Gracia & Joey Gidseg | Raise public awareness of the Ofﬁce of the Police Monitor and increase the accessibility and convenience of filing a report via mobile app. | <code>
 |Politatrek| Danny Contreras | Increase community/voter involvement in the political, non proﬁt, and interest group sectors by creating an on-demand canvassing application.| <code>
 |JoeVolunteer| Chip Franks| Create an app designed to help people that want to volunteer, orgs and people that need help from volunteers, and companies that want to associate with pure good being done in our world. | [GitHub](http://joevolunteer.com)
