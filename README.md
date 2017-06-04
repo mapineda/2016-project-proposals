@@ -46,11 +46,10 @@ Here is a listing of all the projects that were presented:
 |Bike Safety| Subasish Das | Reduce accidents and fatalities involving cars and bicycles by reﬁning posted speeds on roadways with shared bike paths. | NA
 |SiBici| Celine Steer & Orlando Cabanas | Create a holistic solution for how cycling can be safer in Austin, in a way that complements the 2014 Austin Bicycle Plan | NA
 |Budget Party | Victoria O'Dell | Create an interactive app and site to help people understand and augment a city budget for Austin, understand how budgeting works, and allow them a way to directly make an impact on spending. | NA
-|RideAustin| Ivan Benavides| Optimize rider & driver experience for our non-proﬁt rideshare to be able to win against the incoming Uber/Lyt battle. | [Website](http://www.rideaustin.com/)
+|RideAustin| Ivan Benavides| Optimize rider & driver experience for our non-proﬁt rideshare to be able to win against the incoming Uber/Lyft battle. | [Website](http://www.rideaustin.com/)
 |Farmer's Market App |Ryan Pasca|Create an online marketplace that connects small farmers directly to buyers of fresh local produce without a middleman. | NA |
 |BokBot| John Van Lowe | Create a connected chicken coop to make owning and caring for chickens easier. Basic functions include automatic door operations, fan and light control, and environmental monitoring. | NA
-|UKNOWN| Amy Stansbury | Look at business placement, transit accessibility, and racial concentrations which will assist in determining equality .and further sustainable development. | NA
-|UKNOWN| Stephanie Webb | Look at business placement, transit accessibility, and racial concentrations which will assist in determining equality and further sustainable development. | NA
+|UNKNOWN| Stephanie Webb | Look at business placement, transit accessibility, and racial concentrations which will assist in determining equality and further sustainable development. | NA
 |Bounti| Curry Chen  | Create an app that allows neighbors to share surplus food in order to foster community and help end food waste. | NA
 |ATransit| Shreyas Amargol  | Create a navigation tool to integrate Austin's public transit system with bikeshare programs to reduce vehicle emissions and traffic congestion. | NA
 |Austin Pet's Alive| Cheri Linwood  | Develop a Volunteer Recognition App for staf and volunteers to use to recognize the outstanding eforts of our volunteers | [GitHub](http://github.com/jefflinwood/volunteer_recognition_ios)
