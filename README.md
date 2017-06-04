@@ -34,7 +34,7 @@ Here is a listing of all the projects that were presented:
 |UNKNOWN | Nancy A. Lynch| Create concise datasets that support a decision tree model on important topics such as transgender restrooms to empower informed decisions by the community.| <code>
 |UNKNOWN | Sarah Rodriguez | Create a crowdsourced resource for gender-neutral restrooms in Austin. | <code>
 |1AustinSol| Scott Nguyen | Create a community-wide approach to bring the benefits of solar to everyone while stimulating investment in the local Austin economy. | <code>
-|Open Currents| Max Tattenbach & Danny Pernik | Provide software for non-proﬁts to record volunteer hours and issue rewards to their volunteers that are redeemable at local vendors. | <code>
+|Open Currents| Max Tattenbach & Danny Pernik | Provide software for non-profits to record volunteer hours and issue rewards to their volunteers that are redeemable at local vendors. | <code>
 |UKNOWN| David French | Develop and design ops open-source package for civic organizations who need help get up to speed with technology faster. | <code>
 |Hack The Traffic| John Clary & Itamar Gal | Open-source data collection network for transportation to improve communication between public agencies, increase public access to transportation data and inform planning decisions and discussions. | <code>
 |Mobile App| Andrew Nelson | Boilerplate code and design for creating mobile reporting apps | [GitHub](https://github.com/open-austin/restroom-map/)
